@@ -1,4 +1,4 @@
 // write your code below!
-function say(happyHolidays) {
+function say(greeting) {
   console.log("Happy holidays!")
 }
